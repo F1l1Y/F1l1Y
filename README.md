@@ -13,7 +13,9 @@ development boards.
   club, built with Claude Code. REST-only, every change needs an audit reason, boundary-tested.
 - *Cartbound*: a Roblox game written almost entirely by AI agents that I direct, test, and
   sign off on. Private while in development.
-- Local models on an ASUS Ascent GX10 (Qwen3.8, Ollama, llama.cpp, MLX) for the club lab.
+- [**ASUS Ascent GX10 runbook**](https://github.com/F1l1Y/asus-ascent-gx10-runbook): configuration,
+  tuning and benchmark research for the NVIDIA GB10, every claim evidence-graded, with health-check
+  and benchmark tooling. The machine runs local models (Qwen3.8, Ollama, llama.cpp, MLX) for the club lab.
 
 **Interested in:** AI agents · local LLMs · game development · hardware · debugging.
 
