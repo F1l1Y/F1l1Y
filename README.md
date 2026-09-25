@@ -14,8 +14,8 @@ development boards.
 - [**A real digit network and its demos**](https://github.com/F1l1Y/abc-neural-demos): a 1,482-parameter
   network trained in numpy (94 percent on 1,797 unseen digits), the flyer and banner visuals drawn from
   its weights, and two browser demos: the neural barcode and Teach It.
-- [**West Valley campus map**](https://f1l1y.github.io/wvc-campus-map/): 74 buildings, a room directory
-  transcribed from posted floor plans, restrooms, AEDs and evacuation routes. Nothing estimated.
+- *West Valley campus map*: 74 buildings, a room directory transcribed from posted floor plans,
+  restrooms, AEDs and evacuation routes. Nothing estimated. Private for now.
 - *Cartbound*: a Roblox game written almost entirely by AI agents that I direct, test, and
   sign off on. Private while in development.
 - [**ASUS Ascent GX10 runbook**](https://github.com/F1l1Y/asus-ascent-gx10-runbook): configuration,
